@@ -1,0 +1,101 @@
+PatientID,AdmissionID,PrimaryDiagnosisCode,PrimaryDiagnosisDescription
+3A3C2AFB-FFFA-4E69-B4E6-73C1245D5D12,1,E09.42,Drug or chemical induced diabetes mellitus with neurological complications with diabetic polyneuropathy
+801AFB51-036F-40E3-BDFE-FED4844BE275,2,O29.123,"Cardiac failure due to anesthesia during pregnancy, third trimester"
+366B0CC6-18AC-45DD-9AD4-BE884FE3A299,3,M84.561,"Pathological fracture in neoplastic disease, right tibia"
+DBB78149-D86C-435E-82C4-341999FD0719,1,G52.3,Disorders of hypoglossal nerve
+2C6269F4-71F8-4C07-A905-C08E9A3524C2,2,C40.31,Malignant neoplasm of short bones of right lower limb
+07E4EDF1-3AC8-4A71-AC06-F5DDDD8032BA,3,C67.5,Malignant neoplasm of bladder neck
+90A956B2-AAE0-4D39-8A5E-680B36E1EA46,4,O98.612,"Protozoal diseases complicating pregnancy, second trimester"
+00F8A4BE-3CE3-466A-A90D-0A246D80CE57,5,Z13.85,Encounter for screening for nervous system disorders
+4731F86A-9225-424F-9944-AEF4001D0C55,6,Z12.2,Encounter for screening for malignant neoplasm of respiratory organs
+4CF45EFD-ACB3-4199-A974-403F25D219F2,7,Y71,Cardiovascular devices associated with adverse incidents
+75E2A410-6B84-4F88-B23B-D8715B95C8A5,1,M90.661,"Osteitis deformans in neoplastic diseases, right lower leg"
+30449579-0C45-4047-A755-C13E09F32E23,2,C79.82,Secondary malignant neoplasm of genital organs
+8EBF98B7-F043-44DB-874F-DEFBE86176AF,3,D89.81,Graft-versus-host disease
+0F907289-895E-4B76-89E9-8E63C98EE144,1,M01.X31,Direct infection of right wrist in infectious and parasitic diseases classified elsewhere
+449A2AC6-170D-415F-9801-8D0FE5F71655,2,Z22.33,Carrier of bacterial disease due to streptococci
+193C35A1-2BF3-4305-A1A6-3006675821F1,3,M63.82,"Disorders of muscle in diseases classified elsewhere, upper arm"
+2C214BAA-3E7E-4D67-A61A-9AF5366F3AAE,4,O10.12,Pre-existing hypertensive heart disease complicating childbirth
+CD30BCDE-ABF6-42C3-B30C-796A86F114ED,5,O9A.12,Malignant neoplasm complicating childbirth
+82327435-2A63-45EF-AFDE-28A778E5AFAC,6,O9A.11,Malignant neoplasm complicating pregnancy
+16A66D15-D206-4AE9-BA63-A73DAA7F9112,7,G31.83,Dementia with Lewy bodies
+2BD263A3-BF89-484F-8C69-AB201F9EDBE7,1,C90.11,Plasma cell leukemia in remission
+C84E7F47-0BAE-48B1-84FE-92004D2D0A79,2,C18.6,Malignant neoplasm of descending colon
+463530E1-3469-454E-BA01-8258B9FCFDA2,3,E72.5,Disorders of glycine metabolism
+59E199F5-B3B8-4623-877F-49B405C906C6,4,C79.31,Secondary malignant neoplasm of brain
+621BE52F-7D20-4392-91D3-4C686D452B11,1,F98.21,Rumination disorder of infancy
+6B3978F7-807E-4D98-9B03-48772F331290,2,E09.321,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema
+5CD08642-934F-4121-9F25-C0EB35D7E674,1,O10.213,"Pre-existing hypertensive chronic kidney disease complicating pregnancy, third trimester"
+EB15BE30-B691-4DAA-B32B-B61038839F11,2,B97.21,SARS-associated coronavirus as the cause of diseases classified elsewhere
+F05F55AF-0644-4C34-A92A-17957336AC96,3,M05.251,Rheumatoid vasculitis with rheumatoid arthritis of right hip
+5C608866-F7E1-4D88-8ECC-5EA383FB33EC,4,D33.3,Benign neoplasm of cranial nerves
+7E60D7BA-A355-4820-A4BD-83FDB8CD330C,5,H47.4,Disorders of optic chiasm
+481BFABE-7D48-4AE5-8C8F-A87FDA879451,1,M12.151,"Kaschin-Beck disease, right hip"
+1B4F2A2F-7897-4628-B407-BD77B537522F,2,K67,Disorders of peritoneum in infectious diseases classified elsewhere
+6586221F-8302-41D8-9E80-AE29F4B4A602,1,F32.4,"Major depressive disorder, single episode, in partial remission"
+9C1E2B6E-853F-4CC9-BEAF-7B711C2A962F,2,Q27.1,Congenital renal artery stenosis
+4662E05B-146D-4372-9460-20DAA9679A29,3,H05.321,Deformity of right orbit due to bone disease
+6706A2EF-7D82-4553-8355-2C5514C37E79,4,M31.30,Wegener's granulomatosis without renal involvement
+34385B72-07E7-4ADA-B46F-A0B86B332266,1,C38.0,Malignant neoplasm of heart
+34DDAB0E-3637-47ED-B199-B49AECCEA983,2,M05.112,Rheumatoid lung disease with rheumatoid arthritis of left shoulder
+AC84937B-EA46-4FC8-AB79-54ECB5B42A9D,3,H47.41,Disorders of optic chiasm in (due to) inflammatory disorders
+ABD4AD1A-257E-49D0-9B7B-FAF0962F2031,1,M90.55,"Osteonecrosis in diseases classified elsewhere, thigh"
+D94D0208-CD65-4437-8510-A59D941EFFC3,2,D44.2,Neoplasm of uncertain behavior of parathyroid gland
+3E9E79AE-87A9-419E-A9B5-5221BAB5B4DD,1,C04,Malignant neoplasm of floor of mouth
+CCBD196B-B54C-49F0-A342-85EAD4DBA2DB,2,O99.612,"Diseases of the digestive system complicating pregnancy, second trimester"
+A4ECE5DA-CE08-4D5A-920D-3F63703967C4,3,T43.3X3,"Poisoning by phenothiazine antipsychotics and neuroleptics, assault"
+B4B9787F-6711-422E-BDB6-C28564311E02,4,J99,Respiratory disorders in diseases classified elsewhere
+9884404B-F53D-4C32-BBAE-76413B81EDF8,5,M36.1,Arthropathy in neoplastic disease
+9A52E3A3-F53B-4EDE-B739-2D9BD6120C79,6,C71.6,Malignant neoplasm of cerebellum
+F616F398-E7E2-4EE7-A1BF-70A03722A326,7,A22.0,Cutaneous anthrax
+C8A7D440-DA91-4F83-A871-A3A7FA89C56D,8,M12.14,"Kaschin-Beck disease, hand"
+3D1D84A3-CCD7-457E-B53C-68A8275150D0,1,G53,Cranial nerve disorders in diseases classified elsewhere
+8F581A87-A630-4601-94D7-8695C083EF4B,2,D63.1,Anemia in chronic kidney disease
+EB6D400C-49CE-473B-8D87-AD499EEC279B,3,G91.4,Hydrocephalus in diseases classified elsewhere
+1FFA03F8-E13B-41DF-B36D-316FC09A061A,1,M06.3,Rheumatoid nodule
+60113591-C036-48BB-905A-179E6C9A7B5F,2,D33.3,Benign neoplasm of cranial nerves
+1053466E-2BDC-4CAB-834D-ED63E71FAC2E,1,F31.4,"Bipolar disorder, current episode depressed, severe, without psychotic features"
+9BEE3C81-A6D7-4297-8C38-D0A2632288AF,2,I25.111,Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm
+727942A1-3985-405F-B04A-893D10651B01,1,F06.4,Anxiety disorder due to known physiological condition
+159C5604-915D-4342-B8F0-FBE5DBF23B41,2,E08.44,Diabetes mellitus due to underlying condition with diabetic amyotrophy
+7C93E968-CEA7-4C24-9B81-EB0C68EE8C95,3,M05.252,Rheumatoid vasculitis with rheumatoid arthritis of left hip
+42F93CFB-5F41-408C-91C1-6EAFB75EE53E,1,M05.711,Rheumatoid arthritis with rheumatoid factor of right shoulder without organ or systems involvement
+3059A6A6-70C8-4D3D-B4D4-3004F1C38AAE,2,G55,Nerve root and plexus compressions in diseases classified elsewhere
+49F25E04-6552-4909-A2E6-0D0ACBC7CE34,3,D40.12,Neoplasm of uncertain behavior of left testis
+D59C84EC-1E1B-467D-BDF5-79797326CBFB,4,C38.1,Malignant neoplasm of anterior mediastinum
+1E4812EC-06B4-4932-B3E7-1DB2925BF243,5,D43.3,Neoplasm of uncertain behavior of cranial nerves
+0C3F6F10-3B8E-4E22-AAEB-2852E02D8EF7,6,B08.21,Exanthema subitum [sixth disease] due to human herpesvirus 6
+56AD714C-AE00-4032-AF83-B47FCD7DCED3,1,D40.12,Neoplasm of uncertain behavior of left testis
+ED06DB81-3D87-4206-9A5B-65AD89E65267,2,B57.31,Megaesophagus in Chagas' disease
+4F0BE3AD-575A-4234-A398-296DD7C3C69E,1,M06.321,"Rheumatoid nodule, right elbow"
+33BF84B0-A385-4AB8-9B93-36594C4279B7,2,A22.8,Other forms of anthrax
+0479EEC8-221B-4119-8509-216C491017F8,3,O24.1,"Pre-existing diabetes mellitus, type 2, in pregnancy, childbirth and the puerperium"
+3F0BB2A8-EEAC-4C4A-A380-A48473A67BE2,1,C92.60,Acute myeloid leukemia with 11q23-abnormality not having achieved remission
+BED375C1-724C-4B12-BCF4-353B3B6CFEC7,2,C18.5,Malignant neoplasm of splenic flexure
+4E36705D-8CA8-4AF3-9EE5-5790445BD0FB,3,Z11.0,Encounter for screening for intestinal infectious diseases
+7394E86B-39F0-4ACF-A3DE-A1963F753753,4,O99.2,"Endocrine, nutritional and metabolic diseases complicating pregnancy, childbirth and the puerperium"
+F4FE31E6-DF89-494E-B87B-AB0A589CE655,1,H75.01,"Mastoiditis in infectious and parasitic diseases classified elsewhere, right ear"
+3FFEA20E-FDBD-43B6-9D37-0F9F94873FE3,2,M12.1,Kaschin-Beck disease
+6E8A7999-5D8C-4290-84FC-7098FAA5808C,3,C07,Malignant neoplasm of parotid gland
+EBA38C24-D34E-427E-87D1-33772CD206CD,4,I82.3,Embolism and thrombosis of renal vein
+F9F2AF6B-218C-4D31-97A7-F4CEF380ED85,5,M05.16,Rheumatoid lung disease with rheumatoid arthritis of knee
+286826CC-3D3D-4A62-A7D4-C613E8F266D1,6,C91.31,"Prolymphocytic leukemia of B-cell type, in remission"
+D88D8023-92CA-452F-9310-2887F593576C,1,F81.81,Disorder of written expression
+A3C689C5-2EB1-4969-9FFA-2841D6D90FF3,2,D89.81,Graft-versus-host disease
+9250FF99-ACA4-48F3-9223-A74E6997DA1B,3,K00,Disorders of tooth development and eruption
+F734A742-E16D-4D65-BC83-C9767B81F66F,4,H30.81,Harada's disease
+37235C2F-D375-4DB4-999D-388074E6D357,1,M11.042,"Hydroxyapatite deposition disease, left hand"
+3E357C34-6F13-49C7-A19E-BD516966A922,2,K50.8,Crohn's disease of both small and large intestine
+868373AA-212D-4E1B-B92E-83DFD255CB1E,1,D41,Neoplasm of uncertain behavior of urinary organs
+8F748E5C-324F-4FCF-9A89-E6BAC3F481F6,2,O26.63,Liver and biliary tract disorders in the puerperium
+527285E4-FAE8-413F-8475-26868D13C0C5,3,M05.71,Rheumatoid arthritis with rheumatoid factor of shoulder without organ or systems involvement
+7CE46449-9271-4A2D-BA5E-62D3236C72A0,1,F51.04,Psychophysiologic insomnia
+5A90A918-A596-44E2-9309-E44B02E5F51D,2,H94.03,"Acoustic neuritis in infectious and parasitic diseases classified elsewhere, bilateral"
+5109C125-400B-4931-A826-1ACE12BE79B4,1,A22.9,"Anthrax, unspecified"
+E3E440B5-552F-4B9D-AD45-E281CDD7F99B,2,A22.8,Other forms of anthrax
+B09C4852-A022-47AF-86AD-18121F6120FC,1,N08,Glomerular disorders in diseases classified elsewhere
+F3774AFF-D0C0-455C-94C0-24F4B119CD10,2,M02.39,"Reiter's disease, multiple sites"
+E4EC07D1-ADD7-4CFF-84E1-48A22BF65E0F,3,O99.612,"Diseases of the digestive system complicating pregnancy, second trimester"
+62700B28-8E2A-4A6E-AF34-DCEF2F99BDC9,1,F34.0,Cyclothymic disorder
+03D7960A-2F85-41E1-BF10-4CBC45322D0F,2,F12,Cannabis related disorders
+10F12227-F0BF-46A2-A49D-2FED26EF733D,3,A22.9,"Anthrax, unspecified"
